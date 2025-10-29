@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Lathashree M S
 
-🎓 Final Year ECE Student | Aspiring VLSI ,IOT & Embedded Systems Engineer  
-🚀 Passionate about building electronics projects with real-world impact, especially in defense and women safety sectors and health with  marketing and sales.
+🎓 Final Year ECE Student | Aspiring VLSI ,IOT , Embedded Systems Engineer ,Full Stack Developer
+🚀 Passionate about building electronics projects with real-world impact, especially in defense and women safety sectors and health and tech intern,  marketing,sales.
 
 ---
 
 ## 🔧 Skills & Tools
 
-- **Programming:** C, C++, Python, Verilog, SystemVerilog, MATLAB  
+- **Programming:** C, C++, Python, Verilog, SystemVerilog, MATLAB,Front End Developer 
 - **EDA Tools:** ModelSim, Cadence, FEKO, POSTFEKO  
 - **IoT Platforms:** Arduino, Raspberry Pi  
 - **Domains:** VLSI Design, Antenna Simulation, Embedded Systems, Signal Processing  
