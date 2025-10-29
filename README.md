@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Lathashree M S
 
 🎓 Final Year ECE Student | Aspiring VLSI ,IOT , Embedded Systems Engineer ,Full Stack Developer
+
 🚀 Passionate about building electronics projects with real-world impact, especially in defense and women safety sectors and health and tech intern,  marketing,sales.
 
 ---
